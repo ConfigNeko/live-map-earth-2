@@ -114,27 +114,22 @@
       "thum": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/salzburg_austria.webp",
       "link360": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/salzburg_austria.webp"
     },
+  
     {
       "id": "20",
-      "name": "Skogafoss waterfall",
-      "thum": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/salzburg_austria.webp",
-      "link360": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/salzburg_austria.webp"
-    },
-    {
-      "id": "21",
       "name": "Singapore",
       "thum": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/singapore.webp",
       "link360": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/singapore.webp"
     },
     {
-      "id": "22",
+      "id": "21",
       "name": "Switzerland",
       "thum": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/switzerland.webp",
       "link360": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/switzerland.webp"
     },
     
     {
-      "id": "23",
+      "id": "22",
       "name": "Thailand",
       "thum": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/thailand.webp",
       "link360": "https://raw.githubusercontent.com/ConfigNeko/live-map-earth-2/refs/heads/main/cam/thailand.webpg"
